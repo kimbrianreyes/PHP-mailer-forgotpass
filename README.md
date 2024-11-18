@@ -1,4 +1,5 @@
 Put your credentials in null spaces here:
+
         $mail = new PHPMailer(true);
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
